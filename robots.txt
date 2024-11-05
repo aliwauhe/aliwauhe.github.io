@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aliwauhe.github.io/Hvy/sitemap_index.txt
+Sitemap: https://aliwauhe.github.io/MVa/sitemap_index.txt
+Sitemap: https://aliwauhe.github.io/YDf/sitemap_index.txt
+Sitemap: https://aliwauhe.github.io/xIg/sitemap_index.txt
